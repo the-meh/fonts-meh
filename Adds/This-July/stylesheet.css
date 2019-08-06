@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'This July';
+    src: url('hinted-ThisJuly.eot');
+    src: local('This July'), local('ThisJuly'),
+        url('hinted-ThisJuly.eot?#iefix') format('embedded-opentype'),
+        url('hinted-ThisJuly.woff2') format('woff2'),
+        url('hinted-ThisJuly.woff') format('woff'),
+        url('hinted-ThisJuly.ttf') format('truetype'),
+        url('hinted-ThisJuly.svg#ThisJuly') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
